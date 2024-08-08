@@ -1,0 +1,59 @@
+body { 
+    background-color: rgb(83, 83, 119);
+
+}
+.container{
+    width: 100%;
+    height: 100%;
+
+    margin: auto;
+}
+
+.menu li{
+    display: inline;
+    float:right;
+    padding: 10px;
+}
+.menu{
+    background-color: deepskyblue;
+    width: 100%;
+    float:right;
+
+}
+header {
+    background-color: rgb(207, 207, 252);
+}
+h1{
+    font-size: 45px;
+    letter-spacing: 5px;
+    word-spacing: 8px;
+}
+article { 
+    background-color: rgb(178, 212, 241); 
+ }
+
+footer {
+    background: rgb(2,0,36);
+    background: linear-gradient(342deg, rgba(2,0,36,1) 0%, rgba(121,9,94,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.c1{
+    
+    border: solid, 3px, blue;
+    padding: 10px;
+    overflow: scroll;
+     width: 30%;
+       height: 400px;
+background-color: rgba(200, 168, 230, 0.719); 
+display: inline-block;
+margin:5px;
+}
+.col{
+    width: 30%;
+    display:inline;
+
+}
+.row{
+    text-align: center;
+}
+
